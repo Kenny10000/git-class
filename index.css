@@ -1,0 +1,59 @@
+.let{
+    color: #0a66c2;
+ padding: 10px;
+text-decoration: none;
+}
+.chat{ 
+    background-color: #0a66c2;
+    color: #ffffff;
+    margin-left: -15px;
+    text-decoration: none;
+    }
+.in{
+color: #1f1f1f;
+}
+
+.number{
+  
+    width: 250px;
+    height: 30px;
+    }
+nav.pass:hover{
+    background-color: #1f1f1f;
+}
+
+    .pass{
+     
+        width: 250px;
+        height: 30px;
+        }
+    .forgot{
+        
+        color: #0a66c2; 
+        text-decoration: none;
+     }
+        .signin{
+            background-color: #0a66c2;
+          
+            width: 260px;
+            height: 50px;
+            border: 0px;
+            border-radius: 25px;
+            color: #ffffff;
+        }
+.forgot:hover{
+    background-color: #99d8f2;
+    text-decoration: underline;
+   }
+   .signin:hover{
+    background-color:#1e06f2;
+   }
+.line{
+    width: 89px;
+  }
+  div{
+   margin-left: 200px;
+}
+.cen{
+    margin-left: 500px;
+}
